@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000" >
+    
+<TextView
+android:id="@+id/t1"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Developers :"
+android:textStyle="bold"
+android:padding="10dp"
+android:textSize="20sp"
+android:textColor="#ffffff"
+/>
+  
+<TextView
+android:id="@+id/t2"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="1. Mohit Gurnani(121080002)"
+android:textStyle="bold"
+
+android:padding="4dp"
+android:textSize="15sp"
+android:textColor="#ffffff"
+/>  
+<TextView
+android:id="@+id/t3"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="2. Rahul Lachhani(121070035)"
+android:textStyle="bold"
+
+android:padding="4dp"
+android:textSize="15sp"
+android:textColor="#ffffff"
+/>  
+</LinearLayout>
